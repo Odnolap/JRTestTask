@@ -1,0 +1,16 @@
+td, th {
+    padding: 10px;
+}
+
+.todo-list-table, .todo-list-table td, .todo-list-table th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.error {
+    color: red;
+}
+
+.content {
+    margin: 50px;
+}
